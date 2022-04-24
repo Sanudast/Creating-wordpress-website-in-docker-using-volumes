@@ -1,4 +1,4 @@
-# Creating-wordpress-website-in-docker
+# Creating-wordpress-website-in-docker-using-volumes
 
 ## Description
 
